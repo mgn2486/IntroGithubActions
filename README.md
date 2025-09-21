@@ -4,7 +4,7 @@
 
 ### The third largest heading
 
-# CODE MANAGEMENT
+## Repository code management
 
 **Rules of Engagement**
 
