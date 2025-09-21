@@ -6,7 +6,7 @@
 
 # CODE MANAGEMENT
 
-** Rules of Engagement **
+**Rules of Engagement**
 
 1. Main Branch "main"
 2. All features must start in a feature branch
